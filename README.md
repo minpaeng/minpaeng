@@ -1,16 +1,38 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFAFA&height=300&section=header&text=I'm%20MinJeong&fontSize=80&desc=<br/>Hello!👋&descAlignY=30)
 
 <!--
 **minpaeng/minpaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### ✏️ I’m currently studying ...
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F09820?style=flat&logoColor=white"/>
+
+### I can use ...
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=C++&logoColor=white"/>
+
+<br>
+
+### 🔭 I’m currently working on ...
+Project Name: github address
+- Hanium ICT Mentoring
+<br>
+
+### 📜 Project list
+<b>Project Name: github address</b>
+- Spring boot, Spring Data JPA, oahth2, RDS, AWS
+- Describe..
+<br/>
+
+<b>When2meet: github address</b>
+- Spring boot, Spring Data JPA, python, telegram API, google Calendar API(OAuth2), RDS, AWS
+- Describe..
+<br>
+
+### 📫 How to reach me & blog
+email: <br>
+blog: https://minpaeng.tistory.com/
+
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
