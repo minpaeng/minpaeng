@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 <br>
 
 ### 🔭 I’m currently working on
-Project Name: github address
+<b>Project Name<b/>
+🖱️<a>goto repository</a>
 - Hanium ICT Mentoring
 <br>
 
