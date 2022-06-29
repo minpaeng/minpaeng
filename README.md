@@ -19,12 +19,21 @@ Project Name: github address
 <br>
 
 ### 📜 Project list
-<b>Project Name: github address</b>
+<b>Project Name</b>
+🖱️<a>goto repository</a>
 - Spring boot, Spring Data JPA, oahth2, RDS, AWS
 - Describe..
 <br/>
 
-<b>When2meet: github address</b>
+<b>sorimadang<b/>
+🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto repository</a>
+- Spring boot, Spring Data JPA, oahth2, RDS, AWS
+- Describe..
+
+<br/>
+
+<b>When2meet</b>
+🖱️<a>goto repository</a>
 - Spring boot, Spring Data JPA, python, telegram API, google Calendar API(OAuth2), RDS, AWS
 - Describe..
 <br>
