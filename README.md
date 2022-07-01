@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 <br>
 
 ### 📜 Project list
-<b>Project Name</b>
-🖱️<a>goto repository</a>
-- Spring boot, Spring Data JPA, oahth2, RDS, AWS
-- Describe..
-<br/>
-
 <b>sorimadang<b/>
 🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto model project repository</a>
 - Spring boot, Spring Data JPA, oahth2, RDS, AWS
@@ -38,6 +32,12 @@ Here are some ideas to get you started:
 - Spring boot, Spring Data JPA, pytorch, telegram API, google Calendar API, AWS
 - This project analyzes conversations in telegram group chat and informs members of an appointment time to meet together.
 <br>
+
+<b>Project Name</b>
+🖱️<a>goto repository</a>
+- Spring boot, Spring Data JPA, oahth2, RDS, AWS
+- Describe..
+<br/>
 
 ### 📫 How to reach me & blog
 email: <br>
