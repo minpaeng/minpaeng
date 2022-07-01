@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 <b>When2meet</b>
-🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto NLP model project repository</a> 🖱️<a href=https://github.com/minpaeng/graduate_project>goto web project repository</a>
+🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto telegram bot project repository</a> 🖱️<a href=https://github.com/minpaeng/graduate_project>goto web project repository</a>
 - Spring boot, Spring Data JPA, pytorch, telegram API, google Calendar API, AWS
 - This project analyzes conversations in telegram group chat and informs members of an appointment time to meet together.
 <br>
