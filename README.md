@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <br/>
 
 <b>When2meet</b>
-🖱️<a>goto repository</a>
-- Spring boot, Spring Data JPA, python, telegram API, google Calendar API(OAuth2), RDS, AWS
-- Describe..
+🖱️<a href=https://github.com/minpaeng/when2meet>goto repository</a>
+- Spring boot, Spring Data JPA, pytorch, telegram API, google Calendar API, AWS
+- This project analyzes conversations in telegram group chat and informs members of an appointment time to meet together.
 <br>
 
 ### 📫 How to reach me & blog
