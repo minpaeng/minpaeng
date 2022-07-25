@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 <b>Project Name<b/>
-🖱️<a>goto repository</a>
+🖱️<a href=https://github.com/minpaeng/gabojago>goto repository</a>
 - Hanium ICT Mentoring
 <br>
 
 ### 📜 Project list
 <b>sorimadang<b/>
-🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto model project repository</a>
+🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto project repository</a>
 - Spring boot, Spring Data JPA, oahth2, RDS, AWS
 - Describe..
 
