@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <br>
 
 ### 🔭 I’m currently working on
-<b>Project Name<b/>
+<b>gabojago<b/>
 🖱️<a href=https://github.com/minpaeng/gabojago>goto repository</a>
 - Hanium ICT Mentoring
 <br>
