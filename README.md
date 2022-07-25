@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 - This project analyzes conversations in telegram group chat and informs members of an appointment time to meet together.
 <br>
 
-<b>Project Name</b>
-🖱️<a>goto repository</a>
-- Spring boot, Spring Data JPA, oahth2, RDS, AWS
-- Describe..
-<br/>
-
 ---
 
 ### 📫 How to reach me & blog
