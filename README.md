@@ -40,7 +40,3 @@ Here are some ideas to get you started:
 ### 📫 How to reach me & blog
 email: <br>
 blog: https://minpaeng.tistory.com/
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
