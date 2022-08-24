@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on
 <b>gabojago<b/>
 🖱️<a href=https://github.com/minpaeng/gabojago>goto project repository</a>
-- Hanium ICT Mentoring
+- Spring boot, Spring Data JPA, oahth2, RDS, AWS
+- Hanium ICT Mentoring Project
 <br>
 
 ---
