@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 <br>
 
 ---
-### 🔭 I’m currently working on
-<b>gabojago<b/>
+  
+### 📜 Project list
+
+ <b>gabojago<b/>
 🖱️<a href=https://github.com/minpaeng/gabojago>goto project repository</a>
 - Spring boot, Spring Data JPA, oahth2, RDS, AWS
 - Hanium ICT Mentoring Project
 <br>
-
----
-### 📜 Project list
+  
 <b>sorimadang<b/>
 🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto project repository</a>
 - Spring boot, Spring Data JPA, oahth2, RDS, AWS
 - Describe..
-
 <br/>
 
 <b>When2meet</b>
