@@ -55,6 +55,6 @@ email: <br>
 blog: https://minpaeng.tistory.com/
 
 
-<img style="height:145px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwenmj"/>&emsp;
-<img style="height:145px;" src="https://github-readme-stats.vercel.app/api?username=minpaeng&show_icons=true&theme=buefy&line_height=21"/>
-<img style="height:145px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minpaeng&exclude_repo=deepLearning_3,openCV_test,cnnMnistTest,pythonGam,imageProcessing&layout=compact" />
+<img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwenmj"/>&emsp;
+<img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=minpaeng&show_icons=true&theme=buefy&line_height=21"/>
+<img style="height:122px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minpaeng&exclude_repo=deepLearning_3,openCV_test,cnnMnistTest,pythonGam,imageProcessing&layout=compact" />
