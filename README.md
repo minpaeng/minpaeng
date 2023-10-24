@@ -17,6 +17,12 @@ Here are some ideas to get you started:
   
 ### 📜 Project list
 
+ <b>Economius<b/>
+🖱️<a href=https://github.com/minpaeng/economius>goto project repository</a>
+- Spring boot, Spring Data JPA, stomp-websocket, sockjs-client, Spring Security, oahth2, MySQL, Redis, AWS EC2
+- SSAFY 9th
+<br>
+
  <b>HelloToday<b/>
 🖱️<a href=https://github.com/minpaeng/HelloToday>goto project repository</a>
 - Spring boot, Spring Data JPA, QueryDSL, Spring Security, oahth2, MySQL, Redis, AWS EC2
