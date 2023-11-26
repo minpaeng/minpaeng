@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 How to reach me & blog
-email: <br>
-blog: https://minpaeng.tistory.com/
+email: <br/>
+blog: https://minpaeng.tistory.com <br/>
+portfolio: https://responsible-road-73d.notion.site/c7117ed361f74bdc9fc493f110b72995?pvs=4 <br/>
 
 
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwenmj"/>&emsp;
