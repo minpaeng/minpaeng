@@ -6,11 +6,12 @@ Here are some ideas to get you started:
 -->
 
 ### ✏️ Tech Stack
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F09820?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-4479A1?style=flat&logoColor=white"/> 
-
-### 😀 I can use
-<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-
+- Back-End <br/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticstack-005571?style=flat&logo=elasticstack&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+- Front-End <br/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/VueX-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/Recoil-61DAFB?style=flat&logo=react&logoColor=white"/> 
+- and also... <br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Amazone EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <br>
 
 ---
