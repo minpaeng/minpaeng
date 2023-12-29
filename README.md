@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 - Spring boot, Spring Data JPA, oahth2, RDS, AWS
 - Hanium ICT Mentoring Project
 <br>
-  
-<b>sorimadang<b/>
-🖱️<a href=https://github.com/minpaeng/sorimadang-BackEnd>goto project repository</a>
-- Spring boot, Spring Data JPA, oahth2, RDS, AWS
-- Describe..
-<br/>
 
 <b>When2meet</b>
 🖱️<a href=https://github.com/minpaeng/when2meet>goto telegram bot project repository</a> 🖱️<a href=https://github.com/minpaeng/graduate_project>goto web Application repository</a>
