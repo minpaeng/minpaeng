@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=FFFAFA&height=300&section=header&text=I'm%20MinJeong&fontSize=80&desc=<br/>Hello!👋&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFFAFA&height=300&section=header&text=I'm%20MinJeong&fontSize=80&desc=<br/>Hi!👋&descAlignY=30)
 
 <!--
 **minpaeng/minpaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
