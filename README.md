@@ -5,6 +5,10 @@
 Here are some ideas to get you started:
 -->
 
+<br/><h3>✨<strong>포트폴리오:</strong> https://responsible-road-73d.notion.site/c7117ed361f74bdc9fc493f110b72995?pvs=4</h3><br/>
+
+---
+
 ### ✏️ Tech Stack
 - Back-End <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticstack-005571?style=flat&logo=elasticstack&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
@@ -60,8 +64,6 @@ Here are some ideas to get you started:
 ### 📫 How to reach me & blog
 email: <br/>
 blog: https://minpaeng.tistory.com <br/>
-portfolio: https://responsible-road-73d.notion.site/c7117ed361f74bdc9fc493f110b72995?pvs=4 <br/>
-
 
 <img style="height:122px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kwenmj"/>&emsp;
 <img style="height:122px;" src="https://github-readme-stats.vercel.app/api?username=minpaeng&show_icons=true&theme=buefy&line_height=21"/>
