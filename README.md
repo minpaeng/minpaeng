@@ -4,6 +4,9 @@
 **minpaeng/minpaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+<br/><h3>✨<strong>포트폴리오:</strong> https://responsible-road-73d.notion.site/c7117ed361f74bdc9fc493f110b72995?pvs=4</h3><br/>
+
 ### ✏️ Tech Stack
 - Back-End <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticstack-005571?style=flat&logo=elasticstack&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
