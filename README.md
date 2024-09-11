@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-<br/><h3>✨<strong>포트폴리오:</strong> https://responsible-road-73d.notion.site/c7117ed361f74bdc9fc493f110b72995?pvs=4</h3><br/>
 
 ### ✏️ Tech Stack
 - Back-End <br/>
